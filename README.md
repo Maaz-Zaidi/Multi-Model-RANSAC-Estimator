@@ -1,2 +1,7 @@
-# Environment_Scanner
-A short but complex project which takes in 3D points and assigns them to clusters to scan, sort and visualize objects. Uses KD-tree methodology to make itself efficient with input received in Java and creates a 3D scene in Python using open3d and panda
+# Multi-Model RANSAC Estimator (Java)
+
+Developed a 3D object visualization system using Java and Python, incorporating KD-tree for efficient clustering and nearest-neighbor searches within a RANSAC-based algorithm. The system outputs 3D visualizations in Python using Open3D and Pandas.
+
+Implemented a RANSAC algorithm in Java to identify planar structures, enhancing multi-model estimation and outlier handling with KD-tree optimization.
+
+Based upon the following: https://cs.nyu.edu/~fouhey/earlier/thesis/dfouhey_thesisPresentation.pdf
