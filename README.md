@@ -4,4 +4,6 @@
 
 Implemented a RANSAC algorithm in Java to identify planar structures, enhancing multi-model estimation and outlier handling with KD-tree optimization.
 
+Compares runtime between DBScan and KD-tree optimization
+
 Based upon the following: https://cs.nyu.edu/~fouhey/earlier/thesis/dfouhey_thesisPresentation.pdf
