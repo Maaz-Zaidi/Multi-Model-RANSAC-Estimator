@@ -1,5 +1,4 @@
 Maaz Zaidi
-Student Number: 300246507
 Date: December 5, 2022
 
 This project contains 11 java files, including: DBScan.java, Exp1.java, Exp2.java, 
