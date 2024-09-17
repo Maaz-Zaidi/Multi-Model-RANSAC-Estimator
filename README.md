@@ -1,6 +1,6 @@
 # Multi-Model RANSAC Estimator (Java)
 
-Developed a 3D object visualization system using Java and Python, incorporating KD-tree for efficient clustering and nearest-neighbor searches within a RANSAC-based algorithm. The system outputs 3D visualizations in Python using Open3D and Pandas.
+3D object visualization system using Java and Python, incorporating KD-tree for efficient clustering and nearest-neighbor searches within a RANSAC-based algorithm. The system outputs 3D visualizations in Python using Open3D and Pandas.
 
 Implemented a RANSAC algorithm in Java to identify planar structures, enhancing multi-model estimation and outlier handling with KD-tree optimization.
 
